@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "pro-spring-boot-2nd/ch05/todo-jdbc"
+		},
+		{
+			"path": "pro-spring-boot-2nd/ch05/todo-redis"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"maven.view": "flat"
+	}
+}
