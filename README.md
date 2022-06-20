@@ -1,4 +1,4 @@
-# spring-hello
+# spring-boot-microservices-hello
 In this project, I'll take you through a step-by-step process of deploying a microservices-based application architecture using Spring Boot and other projects such as Spring Cloud, Spring Data, etc.
 
 Highlights include
